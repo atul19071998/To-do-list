@@ -72,7 +72,7 @@ h1{
  }
  @media only screen and (max-width: 600px) {
     .row1{
-        width: 400px;
+        width: 300px;
         min-height: 400px;
         background-color:white;
         box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
